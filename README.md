@@ -15,3 +15,4 @@ git add. => this cmd is for add all files in one time
 
 git commit -M => this cmd is used for commit the files mean  when we add the file we can take a screen shot of this files in git , this cmd is used for ,
 
+git origin push => this cmd is used for push the code to github
